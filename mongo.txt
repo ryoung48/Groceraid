@@ -1,0 +1,4 @@
+mongo admin login:
+
+user: root123
+pass : ognomssap7
